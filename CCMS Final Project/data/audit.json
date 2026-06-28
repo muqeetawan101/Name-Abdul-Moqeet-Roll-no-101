@@ -1,0 +1,17 @@
+[
+    {
+        "user": "admin",
+        "action": "Created user 'ali' (Judge)",
+        "date": "2026-06-28 11:53:32"
+    },
+    {
+        "user": "admin",
+        "action": "Created user 'ahmad' (Lawyer)",
+        "date": "2026-06-28 11:53:56"
+    },
+    {
+        "user": "admin",
+        "action": "Created user 'bilal' (Client)",
+        "date": "2026-06-28 11:54:26"
+    }
+]
